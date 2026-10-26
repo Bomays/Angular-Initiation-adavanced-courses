@@ -1,4 +1,4 @@
-# Angular learning Repository - ENI courses
+<h1 align="center">Angular learning Repository - ENI courses</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Bomays/Angular-Initiation-adavanced-courses/main/Ressources/Angular_gradient_logo.png" alt="angular" width="100" />
